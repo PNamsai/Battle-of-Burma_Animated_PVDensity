@@ -1,2 +1,2 @@
 # Battle-of-Burma_Animated_PVDensity
-This folder provides HTML file for the Battle of Burma article.
+This folder contains a file showing the density of P. vivax cases for the Battle of Burma article.
